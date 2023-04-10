@@ -1,0 +1,17 @@
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\bin\Debug\net6.0\projet_pizza2.exe
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\bin\Debug\net6.0\projet_pizza2.deps.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\bin\Debug\net6.0\projet_pizza2.runtimeconfig.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\bin\Debug\net6.0\projet_pizza2.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\bin\Debug\net6.0\projet_pizza2.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.csproj.AssemblyReference.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.AssemblyInfoInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.AssemblyInfo.cs
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\refint\projet_pizza2.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.genruntimeconfig.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\ref\projet_pizza2.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\projet_pizza2\projet_pizza2\obj\Debug\net6.0\projet_pizza2.csproj.CopyComplete

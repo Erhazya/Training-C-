@@ -1,0 +1,14 @@
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\bin\Debug\toDoList.exe.config
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\bin\Debug\toDoList.exe
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\bin\Debug\toDoList.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.csproj.AssemblyReference.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.ToDoList.resources
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.Properties.Resources.resources
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.csproj.GenerateResource.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.exe
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\toDoList\toDoList\obj\Debug\toDoList.csproj.CopyComplete

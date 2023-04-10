@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "programme_poo_valide": {
+      "commandName": "Project"
+    },
+    "Profil 1": {
+      "commandName": "Executable"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\bin\Debug\net6.0\testRoman.exe
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\bin\Debug\net6.0\testRoman.deps.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\bin\Debug\net6.0\testRoman.runtimeconfig.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\bin\Debug\net6.0\testRoman.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\bin\Debug\net6.0\testRoman.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\testRoman.csproj.AssemblyReference.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\testRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\testRoman.AssemblyInfoInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\testRoman.AssemblyInfo.cs
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\testRoman.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\testRoman.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\refint\testRoman.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\testRoman.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\testRoman.genruntimeconfig.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\testRoman\testRoman\obj\Debug\net6.0\ref\testRoman.dll

@@ -1,0 +1,15 @@
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\bin\Debug\net6.0\gestion_employes.exe
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\bin\Debug\net6.0\gestion_employes.deps.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\bin\Debug\net6.0\gestion_employes.runtimeconfig.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\bin\Debug\net6.0\gestion_employes.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\bin\Debug\net6.0\gestion_employes.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\gestion_employes.csproj.AssemblyReference.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\gestion_employes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\gestion_employes.AssemblyInfoInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\gestion_employes.AssemblyInfo.cs
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\gestion_employes.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\gestion_employes.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\refint\gestion_employes.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\gestion_employes.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\gestion_employes.genruntimeconfig.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\gestion_employes\gestion_employes\obj\Debug\net6.0\ref\gestion_employes.dll

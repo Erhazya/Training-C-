@@ -1,0 +1,17 @@
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\bin\Debug\net6.0\programme_json1.exe
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\bin\Debug\net6.0\programme_json1.deps.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\bin\Debug\net6.0\programme_json1.runtimeconfig.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\bin\Debug\net6.0\programme_json1.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\bin\Debug\net6.0\programme_json1.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.csproj.AssemblyReference.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.AssemblyInfoInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.AssemblyInfo.cs
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\refint\programme_json1.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.genruntimeconfig.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\ref\programme_json1.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_json1\programme_json1\obj\Debug\net6.0\programme_json1.csproj.CopyComplete

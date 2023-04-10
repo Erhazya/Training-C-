@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Szu//QyY9kAIEfHIAlFboig1cRVYzVq6I1q4dmpP59LhDltgCYO8bi/DzraEEwXLYimbrjX35Fl9TyIHbyP9dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andy\\OneDrive\\Bureau\\C# Progra\\projets_cs\\projet_pizza2\\projet_pizza2\\projet_pizza2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gestion_employes/1.0.0": {
+        "runtime": {
+          "gestion_employes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestion_employes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

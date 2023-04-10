@@ -1,0 +1,15 @@
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\programme_poo_valide.csproj.AssemblyReference.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\programme_poo_valide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\programme_poo_valide.AssemblyInfoInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\programme_poo_valide.AssemblyInfo.cs
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\programme_poo_valide.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\bin\Debug\net6.0\programme_poo_valide.exe
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\bin\Debug\net6.0\programme_poo_valide.deps.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\bin\Debug\net6.0\programme_poo_valide.runtimeconfig.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\bin\Debug\net6.0\programme_poo_valide.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\bin\Debug\net6.0\programme_poo_valide.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\programme_poo_valide.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\refint\programme_poo_valide.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\programme_poo_valide.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\programme_poo_valide.genruntimeconfig.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\programme_poo_valide\programme_poo_valide\obj\Debug\net6.0\ref\programme_poo_valide.dll

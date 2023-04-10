@@ -1,0 +1,15 @@
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.csproj.AssemblyReference.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.AssemblyInfoInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.AssemblyInfo.cs
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.exe
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.deps.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.runtimeconfig.json
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\refint\jeu_de_maths.dll
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.pdb
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.genruntimeconfig.cache
+C:\Users\Andy\OneDrive\Bureau\C# Progra\projets_cs\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\ref\jeu_de_maths.dll
